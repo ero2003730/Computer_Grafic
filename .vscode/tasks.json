@@ -1,0 +1,89 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build and run Ex1 dos Execicios 1",
+      "type": "shell",
+      "command": "gcc -o Exercicio\\ 1/ex1 Exercicio\\ 1/ex1.c -lGL -lGLU -lglut && ./Exercicio\\ 1/ex1",
+      "group": "build"
+    },
+    {
+      "label": "build and run Ex2 dos Execicios 1",
+      "type": "shell",
+      "command": "gcc -o Exercicio\\ 1/ex2 Exercicio\\ 1/ex2.c -lGL -lGLU -lglut && ./Exercicio\\ 1/ex2",
+      "group": "build"
+    },
+    {
+      "label": "build and run Ex3 dos Execicios 1",
+      "type": "shell",
+      "command": "gcc -o Exercicio\\ 1/ex3 Exercicio\\ 1/ex3.c -lGL -lGLU -lglut && ./Exercicio\\ 1/ex3",
+      "group": "build"
+    },
+    {
+      "label": "build and run Ex5 dos Execicios 1",
+      "type": "shell",
+      "command": "gcc -o Exercicio\\ 1/ex5 Exercicio\\ 1/ex5.c -lGL -lGLU -lglut && ./Exercicio\\ 1/ex5",
+      "group": "build"
+    },
+    {
+      "label": "build and run Ex1 dos Execicios 2",
+      "type": "shell",
+      "command": "gcc -o Exercicio\\ 2/ex1 Exercicio\\ 2/ex1.c -lGL -lGLU -lglut && ./Exercicio\\ 2/ex1",
+      "group": "build"
+    },
+    {
+      "label": "build and run Ex2 dos Execicios 2",
+      "type": "shell",
+      "command": "gcc -o Exercicio\\ 2/ex2 Exercicio\\ 2/ex2.c -lGL -lGLU -lglut && ./Exercicio\\ 2/ex2",
+      "group": "build"
+    },
+    {
+      "label": "build and run Ex3 dos Execicios 2",
+      "type": "shell",
+      "command": "gcc -o Exercicio\\ 2/ex3 Exercicio\\ 2/ex3.c -lGL -lGLU -lglut && ./Exercicio\\ 2/ex3",
+      "group": "build"
+    },
+    {
+      "label": "build and run Ex do Execicios 3",
+      "type": "shell",
+      "command": "gcc -o Exercicio\\ 3/ex Exercicio\\ 3/ex.c -lGL -lGLU -lglut && ./Exercicio\\ 3/ex",
+      "group": "build"
+    },
+    {
+      "label": "build and run Ex1 dos Execicios 4",
+      "type": "shell",
+      "command": "gcc -o Exercicio\\ 4/ex1 Exercicio\\ 4/ex1.c -lGL -lGLU -lglut -lm && ./Exercicio\\ 4/ex1",
+      "group": "build"
+    },
+    {
+      "label": "build and run Ex2 dos Execicios 4",
+      "type": "shell",
+      "command": "gcc -o Exercicio\\ 4/ex2 Exercicio\\ 4/ex2.c -lGL -lGLU -lglut -lm && ./Exercicio\\ 4/ex2",
+      "group": "build"
+    },
+    {
+      "label": "build and run Ex3 dos Execicios 4",
+      "type": "shell",
+      "command": "gcc -o Exercicio\\ 4/ex3 Exercicio\\ 4/ex3.c -lGL -lGLU -lglut -lm && ./Exercicio\\ 4/ex3",
+      "group": "build"
+    },
+    {
+      "label": "build and run Ex1 dos Execicios 5",
+      "type": "shell",
+      "command": "gcc -o Exercicio\\ 5/ex1 Exercicio\\ 5/ex1.c -lGL -lGLU -lglut -lm && ./Exercicio\\ 5/ex1",
+      "group": "build"
+    },
+    {
+      "label": "build and run Ex2 dos Execicios 5",
+      "type": "shell",
+      "command": "gcc -o Exercicio\\ 5/ex2 Exercicio\\ 5/ex2.c -lGL -lGLU -lglut -lm && ./Exercicio\\ 5/ex2",
+      "group": "build"
+    },
+    {
+      "label": "build and run Robo dos Execicios 6",
+      "type": "shell",
+      "command": "gcc -o Exercicio\\ 6/robo Exercicio\\ 6/robo.c -lGL -lGLU -lglut -lm && ./Exercicio\\ 6/robo",
+      "group": "build"
+    },
+  ]
+}
